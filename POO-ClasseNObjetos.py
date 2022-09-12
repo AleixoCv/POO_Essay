@@ -10,4 +10,7 @@ SonyBravia = Televisão('LCD', 32)
 Samsung = Televisão('OLED', 24)
 
 # Aqui podemos printar na tela qualquer característica atribuida ao nosso objeto
-print(SonyBravia.polegadas)
+print('A televisão tem: ',SonyBravia.polegadas, 'polegadas')
+
+
+

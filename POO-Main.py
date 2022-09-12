@@ -29,3 +29,4 @@ objeto = cachorro('cachorro', 'Arya')
 # Chamando um método dentro de uma classe. Também é importante perceber que o método só é chamado pois a classe cachorro
 # atende aos requisitos de sua SuperClasse, ou classe mãe, de ter um método "som", senão haveria um erro
 objeto.som() # O output dessa chamada será "Latido - Au Au".
+
